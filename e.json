@@ -1,0 +1,306 @@
+{
+    "secuses": true,
+    "results": [
+        {
+            "title": "必装",
+            "results": [
+                {
+                    "name": "网站",
+                    "author": "@aston",
+                    "link": "https://qu.ax/VtFq.js",
+                    "descr": "可以通过导入自定义规则查看视频网站内容。",
+                    "image": "",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "在线观看",
+                    "author": "@aston",
+                    "link": "https://qu.ax/VtFq.js",
+                    "descr": "提供了便利的功能，使在线观看电影和连续剧。请确保遵守适用法律和使用平台的使用条款，以确保您的观影体验合法和符合相关规定。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "阿里云盘",
+                    "author": "@aston",
+                    "link": "https://qu.ax/wqho.js",
+                    "descr": "观看阿里云盘内容。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "TMDB代理",
+                    "author": "@lampa",
+                    "link": "http://cub.red/plugin/tmdb-proxy",
+                    "descr": "官方插件，该插件通过代理访问TMDB网站，使查看和获取TMDB网站上的电影海报。请打开设置、TMDB 选项卡，启用 TMDB 代理。",
+                    "available_lampa": 1
+                }
+            ],
+            "hpu": "must"
+        },
+        {
+            "title": "在线视频",
+            "results": [
+                {
+                    "name": "网站",
+                    "author": "@aston",
+                    "link": "https://qu.ax/VtFq.js",
+                    "descr": "可以通过导入自定义规则查看视频网站内容。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "在线观看",
+                    "author": "@aston",
+                    "link": "https://qu.ax/VtFq.js",
+                    "descr": "提供了便利的功能，使在线观看电影和连续剧。请确保遵守适用法律和使用平台的使用条款，以确保您的观影体验合法和符合相关规定。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "阿里云盘",
+                    "author": "@aston",
+                    "link": "https://qu.ax/wqho.js",
+                    "descr": "观看阿里云盘内容。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "Alist",
+                    "author": "@aston",
+                    "link": "https://qu.ax/rPw.js",
+                    "descr": "观看Alist内容。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "PikPak",
+                    "author": "@aston",
+                    "link": "https://qu.ax/DacD.js",
+                    "descr": "观看PikPak内容，该插件使用第三方接口，如担心数据风险，请勿使用。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "低端视频",
+                    "author": "@aston",
+                    "link": "https://qu.ax/hoq.js",
+                    "descr": "在线观看低端视频网上的电影和连续剧。（不支持Apple TV）",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "DYD",
+                    "author": "@aston",
+                    "link": "https://qu.ax/iRd.js",
+                    "descr": "查看DYD网站上的内容（云盘）。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "频道",
+                    "author": "@aston",
+                    "link": "https://qu.ax/NUBz.js",
+                    "descr": "查看电报上相关频道的内容（云盘）。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "豆瓣",
+                    "author": "@aston",
+                    "link": "https://qu.ax/UagC.js",
+                    "descr": "查看豆瓣上的电影和电视剧内容，清晰的分类方便您观影。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "影荐",
+                    "author": "@aston",
+                    "link": "https://qu.ax/rkhX.js",
+                    "descr": "agoodmovietowatch.com 这是一个国外的电影推荐引擎，专门为你推荐小众高评分的电影。尤其适合对影视评论感兴趣的朋友来寻找那些同行未曾解说过的电影。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "小雅Alist",
+                    "author": "@aston",
+                    "link": "https://qu.ax/lmnZ.js",
+                    "descr": "查看小雅整理的影视列表，需要配合Alist插件使用。",
+                    "available_lampa": 1
+                }
+            ],
+            "hpu": "video"
+        },
+        {
+            "title": "界面",
+            "results": [
+                {
+                    "name": "TMDB代理",
+                    "author": "@lampa",
+                    "link": "http://cub.red/plugin/tmdb-proxy",
+                    "descr": "官方插件，该插件通过代理访问TMDB网站，使查看和获取TMDB网站上的电影海报。请打开设置、TMDB 选项卡，启用 TMDB 代理。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "Netflix样式",
+                    "author": "@lampa",
+                    "link": "http://lampa32.ru/interface.js",
+                    "descr": "用类似 Netflix 风格进行内容展示，那些喜欢电影搜索或 Netflix 界面的人会喜欢它。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "影评",
+                    "author": "@aston",
+                    "link": "https://qu.ax/xNA.js",
+                    "descr": "在影片详情卡片上添加一个查看影评的按钮，使用户能够方便地查看关电影或连续剧的评论。",
+                    "available_lampa": 1
+                }
+            ],
+            "hpu": "interface"
+        },
+        {
+            "title": "种子",
+            "results": [
+                {
+                    "name": "磁力下载",
+                    "author": "@aston",
+                    "link": "https://lampame.github.io/td/td/td.js",
+                    "descr": "可以使用qBittorrent/Transmission/Aria2直接下载种子。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "磁力搜索",
+                    "author": "@aston",
+                    "link": "https://qu.ax/EiTb.js",
+                    "descr": "支持流行的种子网站，你可以在这些网站上搜索你想要的内容：1337x、Piratebay、Nyaasi、Torlock、Torrent Galaxy、Zooqle、Kickass、Bitsearch、MagnetDL、Libgen、YTS、Limetorrent、TorrentFunk、Glodls、TorrentProject 和 YourBittorrent。请注意，访问这些网站和下载种子文件可能受到法律限制，具体取决于你所在的地区和当地的法律规定。确保你在符合法律的前提下使用这些网站。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "1337x",
+                    "author": "@aston",
+                    "link": "https://qu.ax/YXbx.js",
+                    "descr": "查看1377x.to网站上电影栏目内容。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "1337x热门电影",
+                    "author": "@aston",
+                    "link": "https://qu.ax/wwPS.js",
+                    "descr": "1377x.to热门电影分类，查看今日趋势、今日热门和本周热门电影。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "Tracks",
+                    "author": "@lampa",
+                    "link": "http://cub.red/plugin/tracks",
+                    "descr": "官方插件，它能够让内置播放器显示种子文件中的音轨和字幕的名称。该插件仅适用于播放种子文件中的内容。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "Torrserver预加载",
+                    "author": "@rootu",
+                    "link": "https://plugin.rootu.top/ts-preload.js",
+                    "descr": "用于内置TorrServer客户端的种子可视化预加载插件。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "在菜单中添加\"解析器\"项",
+                    "author": "@lampa",
+                    "link": "http://cub.red/plugin/etor",
+                    "descr": "用于通过Apple TV或官方LG Store和Tizen App Store安装的Lampa电视插件。在设置中显示包括解析器和Torrserver项。",
+                    "available_lampa": 1
+                }
+            ],
+            "hpu": "torrent"
+        },
+        {
+            "title": "电视直播",
+            "results": [
+                {
+                    "name": "ipTV",
+                    "author": "@rootu",
+                    "link": "http://plugin.rootu.top/tv.js",
+                    "descr": "一个用于免费观看直播电视频道的插件，支持导入网络M3U节目列表以及EPG电视预告源。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "IPTV",
+                    "author": "@lampa",
+                    "link": "http://cub.red/plugin/iptv",
+                    "descr": "官方插件，专门用于观看IPTV频道。它提供了对频道进行分组和将频道添加到收藏夹的功能。该插件仅适用于在 https://cub.red/iptv 上添加的个人播放列表。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "体育",
+                    "author": "@aston",
+                    "link": "https://qu.ax/mgeg.js",
+                    "descr": "在线观看体育直播赛事，支持88看球和jrkan。（Apple TV上不会自动播放视频）",
+                    "available_lampa": 1
+                }
+            ],
+            "hpu": "iptv"
+        },
+        {
+            "title": "音乐",
+            "results": [
+                {
+                    "name": "听歌",
+                    "author": "@aston",
+                    "link": "https://qu.ax/PhO.js",
+                    "descr": "听热门音乐，精选最新歌曲，分类齐全，歌曲数量丰富。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "MTV",
+                    "author": "@aston",
+                    "link": "https://qu.ax/BPcT.js",
+                    "descr": "看MV，听歌。",
+                    "available_lampa": 1
+                }
+            ],
+            "hpu": "music"
+        },
+        {
+            "title": "电台",
+            "results": [
+                {
+                    "name": "电台",
+                    "author": "@aston",
+                    "link": "https://qu.ax/aGed.js",
+                    "descr": "支持国内大部分广播频道，带你感受声音的故事。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "World Radio",
+                    "author": "@aston",
+                    "link": "https://qu.ax/LedX.js",
+                    "descr": "可在线收听新加坡、马来西亚电台",
+                    "available_lampa": 1
+                }
+            ],
+            "hpu": "radio"
+        },
+        {
+            "title": "管理",
+            "results": [
+                {
+                    "name": "控制类型",
+                    "author": "@nemiroff",
+                    "link": "https://nemiroff.github.io/lampa/select_weapon.js",
+                    "descr": "允许选择控制类型（无鼠标遥控、带鼠标的遥控、触摸屏），并重新设置先前选择的控制类型。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "老式风格（书签、喜欢、稍后）",
+                    "author": "@VitalikPVA",
+                    "link": "http://github.freebie.tom.ru/want.js",
+                    "descr": "在主菜单中还原项目的旧式显示样式（书签、喜欢、稍后）。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "重置字幕设置",
+                    "author": "@t_anton",
+                    "link": "https://nb557.github.io/plugins/reset_subs.js",
+                    "descr": "将字幕设置重置为默认值。",
+                    "available_lampa": 1
+                },
+                {
+                    "name": "关闭触摸",
+                    "author": "@t_anton",
+                    "link": "https://nb557.github.io/plugins/not_mobile.js",
+                    "descr": "如果错误地启用了触摸控制，可以关闭它。",
+                    "available_lampa": 1
+                }
+            ],
+            "hpu": "control"
+        }
+    ]
+}
